@@ -4,7 +4,7 @@ Conduct a comprehensive analysis of hotel reservations data to identify trends, 
 
 ## Tools Used: 
 Power BI
-
+![Hotel Reservation Analysis](https://github.com/VihoshiniSaravanan/Hotel_Reservations_Analysis/assets/173756615/007b4898-9595-4f9a-a512-148040a1c96b)
 #### Actions Taken:
 
 #### Data Integration and Modeling:
