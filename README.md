@@ -3,7 +3,7 @@
 Conduct a comprehensive analysis of hotel reservations data to identify trends, optimize booking processes, and enhance customer satisfaction.
 
 ## Tools Used: 
-Power BI
+Power BI,Excel
 ![Hotel Reservation Analysis](https://github.com/VihoshiniSaravanan/Hotel_Reservations_Analysis/assets/173756615/007b4898-9595-4f9a-a512-148040a1c96b)
 #### Actions Taken:
 
